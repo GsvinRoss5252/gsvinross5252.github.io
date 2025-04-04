@@ -41,7 +41,7 @@
 
 <script> const form = document.getElementById('contact-form'); const status = document.getElementById('form-status'); form.addEventListener('submit', function(e) { e.preventDefault(); status.textContent = "Thanks for reaching out! We'll get back to you soon."; form.reset(); }); </script> </body> </html>
 
-body { font-family: Arial, sans-serif; margin: 0; background: #f7fdf7; color: #333; }
+body { font-family: Arial, sans-serif; margin: 0; background: #f7fdf7; color: #0c5e1e; }
 
 header { background: #2e7d32; color: white; padding: 1rem; text-align: center; }
 
