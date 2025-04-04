@@ -61,7 +61,7 @@ form { max-width: 500px; margin: auto; display: flex; flex-direction: column; ga
 
 input, textarea { padding: 0.5rem; border: 1px solid #ccc; border-radius: 4px; }
 
-button { background: #2e7d32; color: white; border: none; padding: 0.7rem; border-radius: 4px; cursor: pointer; }
+button { background: #2e7d32; color: green; border: none; padding: 0.7rem; border-radius: 4px; cursor: pointer; }
 
 button:hover { background: #1b5e20; }
 
