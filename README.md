@@ -51,7 +51,7 @@ nav li { margin: 0 1rem; }
 
 nav a { color: Green; text-decoration: none; font-weight: bold; }
 
-.hero { background: url('https://images.unsplash.com/photo-1600607687993-019d3e3d655c?auto=format&fit=crop&w=1350&q=80') no-repeat center center/cover; color: Green; text-align: center; padding: 4rem 1rem; }
+.hero. {no-repeat center center/cover; color: Green; text-align: center; padding: 4rem 1rem; }
 
 .content, .intro { padding: 2rem; text-align: center; }
 
