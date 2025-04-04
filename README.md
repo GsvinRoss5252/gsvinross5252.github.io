@@ -49,9 +49,9 @@ nav ul { list-style: none; padding: 0; display: flex; justify-content: center; m
 
 nav li { margin: 0 1rem; }
 
-nav a { color: white; text-decoration: none; font-weight: bold; }
+nav a { color: Green; text-decoration: none; font-weight: bold; }
 
-.hero { background: url('https://images.unsplash.com/photo-1600607687993-019d3e3d655c?auto=format&fit=crop&w=1350&q=80') no-repeat center center/cover; color: white; text-align: center; padding: 4rem 1rem; }
+.hero { background: url('https://images.unsplash.com/photo-1600607687993-019d3e3d655c?auto=format&fit=crop&w=1350&q=80') no-repeat center center/cover; color: Green; text-align: center; padding: 4rem 1rem; }
 
 .content, .intro { padding: 2rem; text-align: center; }
 
@@ -61,7 +61,7 @@ form { max-width: 500px; margin: auto; display: flex; flex-direction: column; ga
 
 input, textarea { padding: 0.5rem; border: 1px solid #ccc; border-radius: 4px; }
 
-button { background: #2e7d32; color: green; border: none; padding: 0.7rem; border-radius: 4px; cursor: pointer; }
+button { background: #008000; color: green; border: none; padding: 0.7rem; border-radius: 4px; cursor: pointer; }
 
 button:hover { background: #1b5e20; }
 
